@@ -1,0 +1,18 @@
+Wiki Votes Random Stats: Directed
+  Nodes:                    7115
+  Edges:                    103689
+  Zero Deg Nodes:           0
+  Zero InDeg Nodes:         0
+  Zero OutDeg Nodes:        0
+  NonZero In-Out Deg Nodes: 7115
+  Unique directed edges:    103689
+  Unique undirected edges:  103588
+  Self Edges:               0
+  BiDir Edges:              202
+  Closed triangles:         4139
+  Open triangles:           3003069
+  Frac. of closed triads:   0.001376
+  Connected component size: 1.000000
+  Strong conn. comp. size:  1.000000
+  Approx. full diameter:    4
+  90% effective diameter:  2.928643

@@ -1,0 +1,7 @@
+QA Stats: Directed
+  Nodes:                    188406
+  Edges:                    415174
+  Zero Deg Nodes:           0
+  Zero InDeg Nodes:         108618
+  Zero OutDeg Nodes:        38319
+  NonZero In-Out Deg Nodes: 41469

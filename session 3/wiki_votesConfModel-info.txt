@@ -1,0 +1,18 @@
+Wiki Votes ConfModel Stats:
+  Nodes:                    7115
+  Edges:                    96163
+  Zero Deg Nodes:           0
+  Zero InDeg Nodes:         0
+  Zero OutDeg Nodes:        0
+  NonZero In-Out Deg Nodes: 7115
+  Unique directed edges:    192326
+  Unique undirected edges:  96163
+  Self Edges:               0
+  BiDir Edges:              192326
+  Closed triangles:         300978
+  Open triangles:           11199598
+  Frac. of closed triads:   0.026171
+  Connected component size: 0.998313
+  Strong conn. comp. size:  0.998313
+  Approx. full diameter:    6
+  90% effective diameter:  3.731772
